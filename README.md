@@ -31,7 +31,7 @@ A simple phone number inventory application.
 #### How to run the app:
 Using docker:
 ```
-docker run -p 8080:8080 number-inventory
+docker run -p 8080:8080 marknazareno/number-inventory
 ```
 Or manual build (JDK 10~ and Maven required):
 ```
